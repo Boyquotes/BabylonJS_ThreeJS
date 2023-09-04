@@ -1,0 +1,6 @@
+[submodule "udemy/ThreeJS-Primer"]
+	path = udemy/ThreeJS-Primer
+	url = https://github.com/NikLever/ThreeJS-Primer
+[submodule "simple-3d-fps"]
+	path = simple-3d-fps
+	url = https://github.com/TiagoSilvaPereira/simple-3d-fps
