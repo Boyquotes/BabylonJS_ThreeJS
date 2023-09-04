@@ -2,6 +2,8 @@ https://github.com/nextgtrgod/threejs-floating-island
 
 https://github.com/ekatja/threejs-island  
 
+https://troisjs.github.io/little-planet/
+
 https://github.com/MartDel/LostIsland  
 https://maddening-paw-151.notion.site/Lost-Island-5527c3d1ffc5482d9ac08dd516a2e6b4  
 

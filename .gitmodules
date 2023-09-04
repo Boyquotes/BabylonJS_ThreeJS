@@ -49,3 +49,9 @@
 [submodule "threeJS/threejs-island-ekatja"]
 	path = threeJS/threejs-island-ekatja
 	url = https://github.com/ekatja/threejs-island.git
+[submodule "threeJS/the-sky-isles"]
+	path = threeJS/the-sky-isles
+	url = https://github.com/World-Smiths/the-sky-isles.git
+[submodule "threeJS/island3d"]
+	path = threeJS/island3d
+	url = https://github.com/Karan36k/island3d.git
