@@ -4,3 +4,21 @@
 [submodule "simple-3d-fps"]
 	path = simple-3d-fps
 	url = https://github.com/TiagoSilvaPereira/simple-3d-fps
+[submodule "threeJS/FloatingIslandsDemo"]
+	path = threeJS/FloatingIslandsDemo
+	url = https://github.com/mrlev/FloatingIslandsDemo
+[submodule "threeJS/floating-island-portal"]
+	path = threeJS/floating-island-portal
+	url = https://github.com/jsskrh/floating-island-portal
+[submodule "threeJS/Island-WEB-GL-THREE.JS"]
+	path = threeJS/Island-WEB-GL-THREE.JS
+	url = git@github.com:Boyquotes/Island-WEB-GL-THREE.JS.git
+[submodule "threeJS/three-floating-island"]
+	path = threeJS/three-floating-island
+	url = https://github.com/greenMakaroni/three-floating-island
+[submodule "threeJS/threejs-floating-island"]
+	path = threeJS/threejs-floating-island
+	url = https://github.com/nextgtrgod/threejs-floating-island.git
+[submodule "threeJS/webgl-rock-pillars"]
+	path = threeJS/webgl-rock-pillars
+	url = https://github.com/keaukraine/webgl-rock-pillars.git
