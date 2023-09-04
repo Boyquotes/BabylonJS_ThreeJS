@@ -55,3 +55,6 @@
 [submodule "threeJS/island3d"]
 	path = threeJS/island3d
 	url = https://github.com/Karan36k/island3d.git
+[submodule "threeJS/Lost-Island"]
+	path = threeJS/Lost-Island
+	url = https://github.com/DHBW-FN-TIT20/Lost-Island.git
