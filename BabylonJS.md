@@ -1,6 +1,9 @@
 https://github.com/deimos411/virtualworlds  
 <img src="images/virtualWorld.jpg" />
 
+https://github.com/BabylonJS/SpacePirates
+<img src="https://github.com/BabylonJS/SpacePirates/blob/master/SpacePirates.jpg" />
+
 https://github.com/oriongunning/t5c  
 
 https://github.com/nimadez/voxel-builder  

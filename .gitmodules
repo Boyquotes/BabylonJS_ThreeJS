@@ -22,3 +22,30 @@
 [submodule "threeJS/webgl-rock-pillars"]
 	path = threeJS/webgl-rock-pillars
 	url = https://github.com/keaukraine/webgl-rock-pillars.git
+[submodule "babylonJS/SpacePirates"]
+	path = babylonJS/SpacePirates
+	url = https://github.com/BabylonJS/SpacePirates.git
+[submodule "babylonJS/virtualworlds"]
+	path = babylonJS/virtualworlds
+	url = https://github.com/deimos411/virtualworlds.git
+[submodule "threeJS/virtualworlds"]
+	path = threeJS/virtualworlds
+	url = https://github.com/deimos411/virtualworlds.git
+[submodule "threeJS/ThreeJS-Island"]
+	path = threeJS/ThreeJS-Island
+	url = https://github.com/Kkarl-git/ThreeJS-Island.git
+[submodule "threeJS/threejs-island"]
+	path = threeJS/threejs-island
+	url = https://github.com/hopeman1102/threejs-island.git
+[submodule "threeJS/threejs-island-hopeman1102"]
+	path = threeJS/threejs-island-hopeman1102
+	url = https://github.com/hopeman1102/threejs-island.git
+[submodule "threeJS/terrain"]
+	path = threeJS/terrain
+	url = https://github.com/gitsome/terrain.git
+[submodule "threeJS/3D-island-scene.github.io"]
+	path = threeJS/3D-island-scene.github.io
+	url = https://github.com/ritz-code/3D-island-scene.github.io.git
+[submodule "threeJS/threejs-island-ekatja"]
+	path = threeJS/threejs-island-ekatja
+	url = https://github.com/ekatja/threejs-island.git
