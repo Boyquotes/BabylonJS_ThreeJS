@@ -9,3 +9,10 @@
 
 - https://github.com/DHBW-FN-TIT20/Lost-Island
 <img src="../images/lost-island.png" />
+
+- https://github.com/dataarts/webgl-globe
+<img src="../images/webgl-globe.png" />
+
+- Lots of exemples https://github.com/gkjohnson/threejs-sandbox
+
+
