@@ -6,3 +6,4 @@
 
 - https://n3gis.github.io/exportToBabylon.html
 - https://viseni.com/bjsdemo/index.html
+- https://tourspain.land/itb-berlin-2023/avatar-demo
