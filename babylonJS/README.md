@@ -8,3 +8,7 @@
 - https://viseni.com/bjsdemo/index.html
 - https://tourspain.land/itb-berlin-2023/avatar-demo
 - https://theplayroom.babylonjs.com/
+- https://playground.babylonjs.com/#PIZ1GK#1116
+- https://playground.babylonjs.com/#N10DXG#17 Textures
+- https://gui.babylonjs.com/ Editor Interface Graphique
+- https://doc.babylonjs.com/communityExtensions/figmaToBabylonJS
