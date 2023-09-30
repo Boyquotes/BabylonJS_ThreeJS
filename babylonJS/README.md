@@ -12,3 +12,4 @@
 - https://playground.babylonjs.com/#N10DXG#17 Textures
 - https://gui.babylonjs.com/ Editor Interface Graphique
 - https://doc.babylonjs.com/communityExtensions/figmaToBabylonJS
+- https://github.com/creationspirit/multiplayer-browser-game-boilerplate Multiplayer
