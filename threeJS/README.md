@@ -32,6 +32,7 @@ APP:
 
  - SOCKER.IO
      - https://github.com/Sean-Bradley/First-Car-Shooter
+     - https://github.com/1hella/nodejs-3d-tic-tac-toe.git
      - https://github.com/owenashurst/agar.io-clone
      - https://github.com/VVhispo/Battleship-3D-in-Three.js
      - https://github.com/bondarevk/socketgame-3d
