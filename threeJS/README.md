@@ -18,4 +18,16 @@
      - https://ykob.github.io/sketch-threejs/
      - https://ykob.github.io/sketch-threejs/sketch/flow_field_4.html
 
+- https://github.com/blaze33/droneWorld
+- https://github.com/Priler/dino3d
+- https://priler.github.io/dino3d/
+
+ - SOCKER.IO
+     - https://github.com/Sean-Bradley/First-Car-Shooter
+     - https://github.com/owenashurst/agar.io-clone
+     - https://github.com/VVhispo/Battleship-3D-in-Three.js
+     - https://github.com/bondarevk/socketgame-3d
+     - https://github.com/blaze33/map33.js
+     - https://map33.openbloc.com/
+
 
