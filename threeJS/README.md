@@ -27,6 +27,9 @@ https://sbcode.net/threejs/socketio-branch/
 
 - https://github.com/3mapslab/3DigitalTwin
 
+APP:
+- https://homeidea3d.seanwasere.com/
+
  - SOCKER.IO
      - https://github.com/Sean-Bradley/First-Car-Shooter
      - https://github.com/owenashurst/agar.io-clone
