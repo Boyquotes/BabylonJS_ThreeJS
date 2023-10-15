@@ -38,5 +38,6 @@ APP:
      - https://github.com/bondarevk/socketgame-3d
      - https://github.com/blaze33/map33.js
      - https://map33.openbloc.com/
+     - https://github.com/MswTester/sobylon
 
 
