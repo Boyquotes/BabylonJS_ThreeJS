@@ -16,6 +16,7 @@
 - https://github.com/orion3dgames/t5c Multiplayer
 - https://github.com/to5ta/js_zero RPG
 - https://github.com/Popov72/TRN2
+- https://github.com/eldinor/yuka-babylonjs-examples
 
 HAVOK:
 - https://github.com/armomu/ergoudan
