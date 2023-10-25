@@ -15,6 +15,7 @@
 - https://github.com/creationspirit/multiplayer-browser-game-boilerplate Multiplayer
 - https://github.com/orion3dgames/t5c Multiplayer
 - https://github.com/to5ta/js_zero RPG
+- https://github.com/Popov72/TRN2
 
 HAVOK:
 - https://github.com/armomu/ergoudan
