@@ -17,6 +17,8 @@
 - https://github.com/to5ta/js_zero RPG
 - https://github.com/Popov72/TRN2
 - https://github.com/eldinor/yuka-babylonjs-examples
+- https://github.com/HTTP3D/WalkTheWeb
+- https://github.com/fabianbormann/WalkInWallet
 
 HAVOK:
 - https://github.com/armomu/ergoudan
