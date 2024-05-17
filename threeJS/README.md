@@ -52,9 +52,12 @@ APP:
        <img width="1228" alt="map33" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/ad8a937d-6d07-4f12-a06d-4611037a81be">
 
      - https://github.com/MswTester/sobylon
+       <img width="1416" alt="sobylon" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/c0ca088a-61f5-44f4-b7f4-88410c8a5dbe">
+
   
 DATA:  
 - https://github.com/vasturiano/3d-force-graph
-  
+  <img width="1615" alt="3dForceGraph" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/f0473567-d377-4e80-9d53-e8cacd48dab6">
+
 
 
