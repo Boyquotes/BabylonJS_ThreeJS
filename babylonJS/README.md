@@ -18,10 +18,14 @@
 - https://github.com/Popov72/TRN2
 - https://github.com/eldinor/yuka-babylonjs-examples
 - https://github.com/HTTP3D/WalkTheWeb
+  <img width="1336" alt="walkInWeb" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/198eecf1-883f-47dc-9f87-c2282fc98471">
+
 - https://github.com/fabianbormann/WalkInWallet
 
 HAVOK:
 - https://github.com/armomu/ergoudan
+  ![ergoudan](https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/51abc2a0-f8be-4123-a4ee-98b3e46b3070)
+
 
 - https://github.com/edibotopic/write-height https://edibotopic.github.io/write-height/    Texture gray image height
 - https://github.com/jeeliz/jeelizFaceFilter face tracking
