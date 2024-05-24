@@ -38,6 +38,13 @@ https://sbcode.net/threejs/socketio-branch/
 - https://pmndrs.github.io/cannon-es/examples/
 <img width="1547" alt="CannonJS-FPS-PMNDRS" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/c82e1cad-663c-4889-b413-60ae6fc5798a">
 
+- https://github.com/NikLever/threejs-games-course/
+<img width="2202" alt="billard-lecture76-niklever" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/a6cc718b-b738-4644-9e8d-f5f65f82d8a8">
+<img width="1193" alt="FPS-lecture615-niklever" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/a3839798-c254-4822-ab6d-3880629b710b">
+<img width="1849" alt="FPS-lecture603-niklever" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/e8976e80-e476-47ea-9795-686ae66802ed">
+<img width="1193" alt="FPS-lecture615-niklever" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/24d48223-9fd8-4840-be4c-c12c167cd5e8">
+<img width="1574" alt="Plane-lecture56-niklever" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/58e8e42a-b1a7-4ae5-a451-161caf345610">
+
 APP:
 - https://homeidea3d.seanwasere.com/
 
