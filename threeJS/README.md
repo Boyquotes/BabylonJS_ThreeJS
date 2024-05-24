@@ -1,4 +1,4 @@
-doc    
+edoc    
 https://sbcode.net/threejs/socketio-branch/
 
 - https://github.com/keaukraine/webgl-rock-pillars.git  WEBGL only
@@ -9,6 +9,9 @@ https://sbcode.net/threejs/socketio-branch/
 
 - https://github.com/karan36k/island3d
 <img src="https://github.com/karan36k/island3d/raw/main/img-28.PNG?raw=true" />
+
+- https://github.com/pmndrs/ecctrl
+  <img width="2240" alt="ecctrl" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/0c6f497f-a4d5-45f2-ad9b-3d88009bfa9e">
 
 - https://github.com/DHBW-FN-TIT20/Lost-Island
 <img src="../images/lost-island.png" />
