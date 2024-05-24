@@ -4,6 +4,10 @@
 - https://github.com/canxerian/arctic-sea-ice
 <img src="https://github.com/canxerian/arctic-sea-ice/raw/master/_docs/hero.gif" />
 
+- https://github.com/renjianfeng/F18FlightSimulator-ammojs
+  <img width="1915" alt="F18-flight-simulator" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/88db334d-293e-4b08-a90e-3625d6ea9869">
+
+
 - https://n3gis.github.io/exportToBabylon.html
 - https://viseni.com/bjsdemo/index.html
 - https://tourspain.land/itb-berlin-2023/avatar-demo
