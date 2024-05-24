@@ -32,6 +32,10 @@ https://sbcode.net/threejs/socketio-branch/
 
 - https://github.com/3mapslab/3DigitalTwin
 
+- https://github.com/danielesteban/softxels
+  <img width="2240" alt="softxels" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/0744a083-0492-4c4d-9e23-7008b78fc08f">
+
+
 APP:
 - https://homeidea3d.seanwasere.com/
 
