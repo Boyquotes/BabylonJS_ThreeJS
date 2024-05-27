@@ -35,6 +35,9 @@
 - https://github.com/Iliyan-Y/RTS-Universe
   <img width="1272" alt="rts_universe" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/fa517e56-8653-4d65-a4df-6028c29e9d71">
 
+- https://github.com/Atsutakemura/SimpleWars
+![simple-wars](https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/8734d0a9-59c1-48d7-a847-971510c24292)
+
 
 HAVOK:
 - https://github.com/armomu/ergoudan
