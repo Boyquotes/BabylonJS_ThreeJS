@@ -32,6 +32,9 @@
   <img width="1336" alt="walkInWeb" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/198eecf1-883f-47dc-9f87-c2282fc98471">
 
 - https://github.com/fabianbormann/WalkInWallet
+- https://github.com/Iliyan-Y/RTS-Universe
+  <img width="1272" alt="rts_universe" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/fa517e56-8653-4d65-a4df-6028c29e9d71">
+
 
 HAVOK:
 - https://github.com/armomu/ergoudan
