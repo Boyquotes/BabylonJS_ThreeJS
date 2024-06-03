@@ -52,8 +52,7 @@ https://sbcode.net/threejs/socketio-branch/
   <img width="1895" alt="Pipedown-niklever" src="https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/d7ec6d57-e86b-476d-a499-b09ee116ec2d">
 
 - https://github.com/iErcann/Notblox
-[notblox.webm](https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/bbed7253-255f-40e2-827b-3d6d6a3fdd8e)
-
+![notblox](https://github.com/Boyquotes/BabylonJS_ThreeJS/assets/417514/ea28834f-41da-429f-9e3d-fdfc095c501a)
 
 APP:
 - https://homeidea3d.seanwasere.com/
